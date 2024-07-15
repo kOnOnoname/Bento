@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Reddit',
-			icon: 'icon-tie-business',
+			icon: 'binary',
 			link: 'https://reddit.com',
 		},
 	],
