@@ -31,7 +31,7 @@ const CONFIG = {
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '41.008240',
 	defaultLongitude: '28.978359',
 
@@ -78,13 +78,13 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Kick',
-			icon: 'glasses',
+			icon: 'kick',
 			link: 'https://kick.com/',
 		},
 		{
 			id: '6',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'reddit',
 			link: 'https://reddit.com',
 		},
 	],
