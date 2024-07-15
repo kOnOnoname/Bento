@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://www.twitch.tv/',
 		},
 		{
 			id: '3',
@@ -71,20 +71,20 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://www.twitch.tv/',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/mail/u/0/',
 		},
 		{
 			id: '5',
 			name: 'Kick',
-			icon: 'kick',
+			icon: 'k',
 			link: 'https://kick.com/',
 		},
 		{
 			id: '6',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 	],
